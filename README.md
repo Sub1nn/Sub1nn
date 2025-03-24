@@ -15,7 +15,7 @@
 🔹 **Entrepreneur & Business Partner** – Subimala Oy (3247617-7) – Experience in business operations and leadership  
 
 ## 🔭 What I'm Working On 
-- Developing control system models for mechatronic machines, analysing system dynamics and behaviour.
+- Developing, simulating control system models for mechatronic machines, analysing system dynamics and behaviour.
 - Expanding expertise in **Full Stack Web Development & AI/ML**  
 - Developing scalable applications with **modern web technologies**  
 
