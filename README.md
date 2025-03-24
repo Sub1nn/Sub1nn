@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me  
 🔹 **Mechanical Engineer (Mechatronics & Control Systems)** specializing in **Mechanical design, Simulation, Automation and System Modeling** 
 
-🔹 **Software Developer** – Full Stack Web Development (MERN, SQL, Prisma, Docker, Kubernetes, Linux, AWS)
+🔹 **Software Developer** – Full Stack Web Development (MERN-Stack, SQL, Prisma, Docker, Kubernetes, Linux, AWS)
 
 🔹 **Data Science & Machine Learning Practitioner** – Worked on PCA, PLS, deep learning (RNN, LSTM, CNN, Transformer architectures) and predictive modeling  
 
