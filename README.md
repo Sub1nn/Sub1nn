@@ -10,7 +10,7 @@
 
 🔹 **Software Developer** – Full Stack Web Development (MERN-Stack, SQL, Prisma, Docker, Kubernetes, Linux, AWS)
 
-🔹 **Data Science & Machine Learning Practitioner**(Python, Matlab) – Worked on PCA, PLS, deep learning (RNN, LSTM, CNN, Transformer architectures) and predictive modeling  
+🔹 **Data Science & Machine Learning Practitioner** (Python, Matlab) – Worked on PCA, PLS, deep learning (RNN, LSTM, CNN, Transformer architectures) and predictive modeling  
 
 🔹 **Entrepreneur & Business Partner** – Subimala Oy (3247617-7) – Experience in business operations and leadership  
 
